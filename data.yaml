@@ -1,11 +1,11 @@
-Armans:
-    firstName: Armans
-    lastName: Bimatovs
-    favoriteAnimal: dog
+John:
+    firstName: John
+    lastName: Doe
+    favoriteAnimal: cat
     favoriteMovie: 'The Matrix'
     dateOfBirth: '2018-01-06T00:00:00.000Z'
-Alexis:
-    firstName: Alexis
-    lastName: Bimatovs
+Jane:
+    firstName: Jane
+    lastName: Doe
     favoriteAnimal: snail
     dateOfBirth: '2019-01-06T00:00:00.000Z'
