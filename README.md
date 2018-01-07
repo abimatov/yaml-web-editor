@@ -6,3 +6,7 @@ This application lets you expose your YAML file and edit it on the web which imm
 
 [![https://gyazo.com/cc3b912e9b2984752b6335ee0870c557](https://i.gyazo.com/cc3b912e9b2984752b6335ee0870c557.gif)](https://gyazo.com/cc3b912e9b2984752b6335ee0870c557)
 
+### TODO:
+
+* Add support for multiple yaml files
+* Write more TODO items
