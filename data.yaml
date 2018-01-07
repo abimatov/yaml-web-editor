@@ -1,0 +1,11 @@
+Armans:
+    firstName: Armans
+    lastName: Bimatovs
+    favoriteAnimal: dog
+    favoriteMovie: 'The Matrix'
+    dateOfBirth: '2018-01-06T00:00:00.000Z'
+Alexis:
+    firstName: Alexis
+    lastName: Bimatovs
+    favoriteAnimal: snail
+    dateOfBirth: '2019-01-06T00:00:00.000Z'
